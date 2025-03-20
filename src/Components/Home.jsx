@@ -92,9 +92,9 @@ const Home = () => {
             <h1 className="text-blue-600 text-4xl lg:text-5xl font-bold ml-0 mb-4">
               {randomAnime.title}
             </h1>
-            <p className="text-blue-600 text-lg lg:text-xl max-w-2xl">
-              {randomAnime.synopsis || "No synopsis available."}
-            </p>
+        
+           < p className="text-gray-600 text-lg lg:text-xl max-w-2x">⭐ {randomAnime.score}</p>
+          
           </div>
         </div>
       )}
