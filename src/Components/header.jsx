@@ -19,7 +19,7 @@ const Navbar = () => {
           <Link to="/" className="hover:text-blue-400 transition duration-300">Home</Link>
           <Link to="/new" className="hover:text-blue-400 transition duration-300">New</Link>
           <Link to="/popular" className="hover:text-blue-400 transition duration-300">Popular</Link>
-          <Link to="/watchlist" className="hover:text-blue-400 transition duration-300">Watch List</Link>
+          
         </nav>
 
         
