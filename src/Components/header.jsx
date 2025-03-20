@@ -11,7 +11,7 @@ const Navbar = () => {
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         
         {/* Logo */}
-        <h1 className="text-2xl font-bold text-blue-400">AnimeVerse</h1>
+        <h1 className="text-2xl font-bold text-blue-400">AnimeHaven</h1>
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex space-x-6">
